@@ -15,7 +15,6 @@
 |[GuguApi](https://github.com/Cospotato/GuguApi)|Java SDK|
 |[memobird](https://github.com/dimonwei/memobird)|Java SDK|
 |[memobird-java](https://github.com/crackcell/memobird-java)|Java SDK|
-|[memobird-python](https://github.com/jingxinxin/memobird-python)|Python SDK|
 |[memobird.py](https://github.com/wong2/memobird.py)|Python SDK|
 |[pymobird](https://github.com/Windfarer/pymobird)|Python SDK|
 |[memobird-go](https://github.com/crackcell/memobird-go)|Golang SDK|
